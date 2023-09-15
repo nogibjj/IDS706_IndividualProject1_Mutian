@@ -94,6 +94,18 @@ contains a set of rules that define how to automate common development tasks rel
 ## Output
 
 * Descriptive Statiscs:
+![img](stat1.png)
 
+* null info
 
+![img](sta2.png)
 
+* plots
+  
+![img](fig1.png)
+
+![img](fig2.png)
+
+![img](fig3.png)
+
+![img](fig4.png)

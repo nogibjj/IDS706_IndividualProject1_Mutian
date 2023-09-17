@@ -1,6 +1,13 @@
-# Individual Project 1  [![CI](https://github.com/nogibjj/IDS706_miniproject2_Mutian/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/IDS706_miniproject2_Mutian/actions/workflows/cicd.yml)
 
+# Individual Project 1  
 
+[![Install](https://github.com/nogibjj/IDS706_IndividualProject1_Mutian/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/IDS706_IndividualProject1_Mutian/actions/workflows/install.yml)
+
+[![Test](https://github.com/nogibjj/IDS706_IndividualProject1_Mutian/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/IDS706_IndividualProject1_Mutian/actions/workflows/test.yml)
+
+[![Format](https://github.com/nogibjj/IDS706_IndividualProject1_Mutian/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/IDS706_IndividualProject1_Mutian/actions/workflows/format.yml)
+
+[![Lint](https://github.com/nogibjj/IDS706_IndividualProject1_Mutian/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/IDS706_IndividualProject1_Mutian/actions/workflows/lint.yml)
 ## Goal
 
 

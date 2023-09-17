@@ -60,7 +60,7 @@ contains a set of rules that define how to automate common development tasks rel
 
 * __script.py__: defines a simple function to describe data and plot figures
 
-* __analysis.ipynb: describe data and plot figures
+* __analysis.ipynb__: describe data and plot figures
   
 * __lib.py__: defines common functions used in script and analysis.ipynb
 
@@ -81,15 +81,15 @@ contains a set of rules that define how to automate common development tasks rel
   
 ## Run
 
-* install code __make install__
+* install code `make install`
 
-* lint code __make lint__
+* lint code `make lint`
+   
+* format code `make format`
 
-* format code __make format__
+* test code `make test`
 
-* test code __make test__
-
-* run all steps __make all__
+* run all steps `make all`
 
 ## Output
 

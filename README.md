@@ -8,6 +8,11 @@
 [![Format](https://github.com/nogibjj/IDS706_IndividualProject1_Mutian/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/IDS706_IndividualProject1_Mutian/actions/workflows/format.yml)
 
 [![Lint](https://github.com/nogibjj/IDS706_IndividualProject1_Mutian/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/IDS706_IndividualProject1_Mutian/actions/workflows/lint.yml)
+
+
+## Video Link
+https://www.youtube.com/watch?v=JTuyfCgP38o
+
 ## Goal
 
 

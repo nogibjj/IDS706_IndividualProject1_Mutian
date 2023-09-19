@@ -11,7 +11,7 @@
 
 
 ## Video Link
-https://www.youtube.com/watch?v=JTuyfCgP38o
+https://youtu.be/oub9hpypnwQ
 
 ## Goal
 

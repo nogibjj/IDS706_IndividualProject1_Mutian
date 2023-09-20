@@ -10,9 +10,6 @@
 [![Lint](https://github.com/nogibjj/IDS706_IndividualProject1_Mutian/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/IDS706_IndividualProject1_Mutian/actions/workflows/lint.yml)
 
 
-## Video Link
-https://youtu.be/oub9hpypnwQ
-
 ## Goal
 
 
@@ -121,3 +118,8 @@ contains a set of rules that define how to automate common development tasks rel
 ![img](fig3.png)
 
 ![img](fig4.png)
+
+
+## Video Link
+https://youtu.be/oub9hpypnwQ
+
